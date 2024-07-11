@@ -6,7 +6,7 @@
 ## My name is Mateus Fonseca 
 Backend developer | Java | Spring Boot
 
-- 🔭 I'm currently looking for a internship or júnior developer position ...
+- 🔭 I'm currently looking for a internship or junior developer position ...
 - 🌱 Always looking to learn more about the world of Java and Spring
 - 🎓 System Analysis and Development @ [PUCPR](https://www.pucpr.br/)
 - 🌐 Passionate about Backend development
