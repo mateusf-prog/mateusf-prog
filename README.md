@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mateus102006@hotmail.com)
 
 ## My name is Mateus Fonseca 
-Backend developer | Java | Spring Boot
+Backend developer | Java | Spring Boot | C# | ASP.NET
 
 - 🌱 Always looking to learn more about the world of Java, Spring, C# and .NET
 - 🎓 System Analysis and Development @ [PUCPR](https://www.pucpr.br/)
