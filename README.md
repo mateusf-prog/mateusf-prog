@@ -7,7 +7,5 @@
 Backend developer | Java | Spring Boot | C# | ASP.NET
 
 - 🌱 Always looking to learn more about the world of Java, Spring, C# and .NET
-- 🎓 System Analysis and Development @ [PUCPR](https://www.pucpr.br/)
-- 🌐 Passionate about Backend development
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusf-prog&layout=compact)
